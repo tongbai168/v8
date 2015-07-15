@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/YAML
+END
+Types.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/YAML/Types.pm
+END
+Node.pm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/YAML/Node.pm
+END
+Loader.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/YAML/Loader.pm
+END
+Error.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/YAML/Error.pm
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/YAML/Base.pm
+END
+Tag.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/YAML/Tag.pm
+END
+Dumper.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/YAML/Dumper.pm
+END
+Marshall.pm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/YAML/Marshall.pm
+END

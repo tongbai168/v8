@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/Net
+END
+Telnet.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/Net/Telnet.pm
+END
+HTTP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/Net/HTTP.pm
+END
+HTTPS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/Net/HTTPS.pm
+END

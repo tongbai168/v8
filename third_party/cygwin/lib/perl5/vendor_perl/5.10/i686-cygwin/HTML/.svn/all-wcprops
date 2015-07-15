@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/HTML
+END
+Entities.pm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/HTML/Entities.pm
+END
+Filter.pm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/HTML/Filter.pm
+END
+PullParser.pm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/HTML/PullParser.pm
+END
+Parser.pm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/HTML/Parser.pm
+END
+HeadParser.pm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/HTML/HeadParser.pm
+END
+LinkExtor.pm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/HTML/LinkExtor.pm
+END
+TokeParser.pm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/HTML/TokeParser.pm
+END

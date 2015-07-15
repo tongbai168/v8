@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CPANPLUS/Shell/Default/Plugins
+END
+HOWTO.pod
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CPANPLUS/Shell/Default/Plugins/HOWTO.pod
+END
+CustomSource.pm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CPANPLUS/Shell/Default/Plugins/CustomSource.pm
+END
+Remote.pm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CPANPLUS/Shell/Default/Plugins/Remote.pm
+END
+Source.pm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CPANPLUS/Shell/Default/Plugins/Source.pm
+END

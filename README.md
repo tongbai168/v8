@@ -1,32 +1,26 @@
-# v8
-v8 source code included all dependencies (gyp, icu, gtest, gmock)
+V8 JavaScript Engine
+=============
+
+V8 is Google's open source JavaScript engine.
+
+V8 implements ECMAScript as specified in ECMA-262.
+
+V8 is written in C++ and is used in Google Chrome, the open source
+browser from Google.
+
+V8 can run standalone, or can be embedded into any C++ application.
+
+V8 Project page: https://code.google.com/p/v8/
 
 
-// useful operation, just record.
-Quick setup — if you've done this kind of thing before
+Getting the Code
+=============
 
-or	
- HTTPS
- SSH
-	
-We recommend every repository include a README, LICENSE, and .gitignore.
-…or create a new repository on the command line
+V8 Git repository: https://chromium.googlesource.com/v8/v8.git
+GitHub mirror: https://github.com/v8/v8-git-mirror
 
+For fetching all branches, add the following into your remote
+configuration in `.git/config`:
 
-echo "# v8" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/tongbai168/v8.git
-git push -u origin master
-…or push an existing repository from the command line
-
-
-git remote add origin https://github.com/tongbai168/v8.git
-git push -u origin master
-…or import code from another repository
-
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
-
-Import code
-
+        fetch = +refs/branch-heads/*:refs/remotes/branch-heads/*
+        fetch = +refs/tags/*:refs/tags/*

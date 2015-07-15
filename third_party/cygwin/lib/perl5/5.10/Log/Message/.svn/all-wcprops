@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Log/Message
+END
+Config.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Log/Message/Config.pm
+END
+Simple.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Log/Message/Simple.pm
+END
+Item.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Log/Message/Item.pm
+END
+Handlers.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Log/Message/Handlers.pm
+END

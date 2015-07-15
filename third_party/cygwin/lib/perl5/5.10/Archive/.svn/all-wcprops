@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Archive
+END
+Tar.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Archive/Tar.pm
+END
+Extract.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Archive/Extract.pm
+END

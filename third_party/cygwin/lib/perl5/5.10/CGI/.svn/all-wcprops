@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CGI
+END
+Carp.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CGI/Carp.pm
+END
+Pretty.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CGI/Pretty.pm
+END
+Cookie.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CGI/Cookie.pm
+END
+Fast.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CGI/Fast.pm
+END
+Util.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CGI/Util.pm
+END
+Push.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CGI/Push.pm
+END
+Apache.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CGI/Apache.pm
+END
+Switch.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/CGI/Switch.pm
+END

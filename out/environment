@@ -1,0 +1,2 @@
+GYPFLAGS= -Dcomponent=shared_library -Dv8_enable_backtrace=1 -Darm_fpu=default -Darm_float_abi=default
+CXX=g++

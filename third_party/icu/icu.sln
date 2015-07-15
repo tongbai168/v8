@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "icudata", "icudata.vcxproj", "{0F82C34F-3CFE-D956-1E23-43EB8542FE0C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "icui18n", "icui18n.vcxproj", "{233EA9F6-767A-90A1-2B0C-295FE989684C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "icuuc", "icuuc.vcxproj", "{0C461B4A-6A5F-C317-C3A4-48065EAC1436}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0F82C34F-3CFE-D956-1E23-43EB8542FE0C} = {0F82C34F-3CFE-D956-1E23-43EB8542FE0C}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C461B4A-6A5F-C317-C3A4-48065EAC1436}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0C461B4A-6A5F-C317-C3A4-48065EAC1436}.Debug|Win32.Build.0 = Debug|Win32
+		{0C461B4A-6A5F-C317-C3A4-48065EAC1436}.Release|Win32.ActiveCfg = Release|Win32
+		{0C461B4A-6A5F-C317-C3A4-48065EAC1436}.Release|Win32.Build.0 = Release|Win32
+		{0F82C34F-3CFE-D956-1E23-43EB8542FE0C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F82C34F-3CFE-D956-1E23-43EB8542FE0C}.Debug|Win32.Build.0 = Debug|Win32
+		{0F82C34F-3CFE-D956-1E23-43EB8542FE0C}.Release|Win32.ActiveCfg = Release|Win32
+		{0F82C34F-3CFE-D956-1E23-43EB8542FE0C}.Release|Win32.Build.0 = Release|Win32
+		{233EA9F6-767A-90A1-2B0C-295FE989684C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{233EA9F6-767A-90A1-2B0C-295FE989684C}.Debug|Win32.Build.0 = Debug|Win32
+		{233EA9F6-767A-90A1-2B0C-295FE989684C}.Release|Win32.ActiveCfg = Release|Win32
+		{233EA9F6-767A-90A1-2B0C-295FE989684C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

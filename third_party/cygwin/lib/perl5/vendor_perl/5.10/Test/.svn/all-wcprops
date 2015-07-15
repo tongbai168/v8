@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/Test
+END
+Pod.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/Test/Pod.pm
+END
+Reporter.pm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/Test/Reporter.pm
+END
+YAML.pm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/Test/YAML.pm
+END

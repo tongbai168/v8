@@ -1,0 +1,4 @@
+cmd_/home/farnk/workspace/gitPro/v8/out/native/obj.target/icudata/third_party/icu/linux/icudt46l_dat.o := cc '-DU_USING_ICU_NAMESPACE=0' '-DV8_TARGET_ARCH_X64' '-DU_HIDE_DATA_SYMBOL' -I../third_party/icu/source/common -I../third_party/icu/source/i18n  -Wall -W -Wno-unused-parameter -Wno-long-long -pthread -fno-exceptions -pedantic -Wno-missing-field-initializers -fPIC -m64 -fdata-sections -ffunction-sections -O3  -MMD -MF /home/farnk/workspace/gitPro/v8/out/native/.deps//home/farnk/workspace/gitPro/v8/out/native/obj.target/icudata/third_party/icu/linux/icudt46l_dat.o.d.raw  -c -o /home/farnk/workspace/gitPro/v8/out/native/obj.target/icudata/third_party/icu/linux/icudt46l_dat.o ../third_party/icu/linux/icudt46l_dat.S
+/home/farnk/workspace/gitPro/v8/out/native/obj.target/icudata/third_party/icu/linux/icudt46l_dat.o: \
+ ../third_party/icu/linux/icudt46l_dat.S
+../third_party/icu/linux/icudt46l_dat.S:

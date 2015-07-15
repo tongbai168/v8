@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Encode
+END
+_T.e2x
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Encode/_T.e2x
+END
+encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Encode/encode.h
+END
+Changes.e2x
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Encode/Changes.e2x
+END
+Makefile_PL.e2x
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Encode/Makefile_PL.e2x
+END
+Supported.pod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Encode/Supported.pod
+END
+_PM.e2x
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Encode/_PM.e2x
+END
+ConfigLocal_PM.e2x
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Encode/ConfigLocal_PM.e2x
+END
+README.e2x
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Encode/README.e2x
+END
+PerlIO.pod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/Encode/PerlIO.pod
+END

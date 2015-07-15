@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/i686-cygwin/IO/Uncompress
+END
+Unzip.pm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/i686-cygwin/IO/Uncompress/Unzip.pm
+END
+AnyUncompress.pm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/i686-cygwin/IO/Uncompress/AnyUncompress.pm
+END
+AnyInflate.pm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/i686-cygwin/IO/Uncompress/AnyInflate.pm
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/i686-cygwin/IO/Uncompress/Base.pm
+END
+Gunzip.pm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/i686-cygwin/IO/Uncompress/Gunzip.pm
+END
+RawInflate.pm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/i686-cygwin/IO/Uncompress/RawInflate.pm
+END
+Inflate.pm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/5.10/i686-cygwin/IO/Uncompress/Inflate.pm
+END

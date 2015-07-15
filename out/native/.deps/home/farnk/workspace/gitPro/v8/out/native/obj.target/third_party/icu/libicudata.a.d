@@ -1,0 +1,1 @@
+cmd_/home/farnk/workspace/gitPro/v8/out/native/obj.target/third_party/icu/libicudata.a := rm -f /home/farnk/workspace/gitPro/v8/out/native/obj.target/third_party/icu/libicudata.a && ar crsT /home/farnk/workspace/gitPro/v8/out/native/obj.target/third_party/icu/libicudata.a /home/farnk/workspace/gitPro/v8/out/native/obj.target/icudata/third_party/icu/linux/icudt46l_dat.o

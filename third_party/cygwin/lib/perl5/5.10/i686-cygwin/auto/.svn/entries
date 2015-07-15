@@ -1,0 +1,145 @@
+10
+
+dir
+133786
+http://src.chromium.org/chrome/trunk/deps/third_party/cygwin/lib/perl5/5.10/i686-cygwin/auto
+http://src.chromium.org/chrome
+
+
+
+2008-10-10T21:45:07.358248Z
+3248
+kuchhal@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+File
+dir
+
+B
+dir
+
+sdbm
+dir
+
+Filter
+dir
+
+Socket
+dir
+
+threads
+dir
+
+PerlIO
+dir
+
+Win32API
+dir
+
+Encode
+dir
+
+POSIX
+dir
+
+Win32
+dir
+
+Fcntl
+dir
+
+re
+dir
+
+GDBM_File
+dir
+
+Opcode
+dir
+
+Win32CORE
+dir
+
+IPC
+dir
+
+Storable
+dir
+
+Sys
+dir
+
+NDBM_File
+dir
+
+I18N
+dir
+
+Digest
+dir
+
+ODBM_File
+dir
+
+DynaLoader
+dir
+
+Hash
+dir
+
+DB_File
+dir
+
+SDBM_File
+dir
+
+Text
+dir
+
+Unicode
+dir
+
+MIME
+dir
+
+Math
+dir
+
+Compress
+dir
+
+attrs
+dir
+
+Time
+dir
+
+Devel
+dir
+
+IO
+dir
+
+Data
+dir
+
+List
+dir
+
+Cwd
+dir
+

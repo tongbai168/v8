@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/Pod/Coverage
+END
+CountParents.pm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/Pod/Coverage/CountParents.pm
+END
+Overloader.pm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/Pod/Coverage/Overloader.pm
+END
+ExportOnly.pm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/Pod/Coverage/ExportOnly.pm
+END

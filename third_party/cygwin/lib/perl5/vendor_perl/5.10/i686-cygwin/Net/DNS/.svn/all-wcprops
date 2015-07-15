@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/Net/DNS
+END
+Nameserver.pm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/Net/DNS/Nameserver.pm
+END
+Packet.pm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/Net/DNS/Packet.pm
+END
+Question.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/Net/DNS/Question.pm
+END
+Header.pm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/Net/DNS/Header.pm
+END
+FAQ.pod
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/Net/DNS/FAQ.pod
+END
+Resolver.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/Net/DNS/Resolver.pm
+END
+Update.pm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/Net/DNS/Update.pm
+END
+RR.pm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/1788/trunk/deps/third_party/cygwin/lib/perl5/vendor_perl/5.10/i686-cygwin/Net/DNS/RR.pm
+END
